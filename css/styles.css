@@ -10202,7 +10202,7 @@ header.masthead h1 {
 .map{
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%; /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+  padding-bottom: 40.25%; 
 }
 
 .map> *{
