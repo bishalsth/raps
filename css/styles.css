@@ -10258,5 +10258,31 @@ header.masthead h1 {
 }
 
 
+.bg_career {
+  /* The image used */
+  background-image: url("../image/back1.jpg");
+
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
+
+
+.bg_service {
+  /* The image used */
+  background-image: url("../image/busines.jpg");
+
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
